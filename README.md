@@ -1,6 +1,6 @@
 # hello-world
 Just another repository
 
-Hello splendid
-Helieve youself,you can!
+Hello splendid!
+Believe yourself,you can do it!
 Fighting!
